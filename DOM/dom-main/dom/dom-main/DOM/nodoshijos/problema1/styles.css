@@ -1,0 +1,13 @@
+.titulo{
+    text-align: center;
+    color: cadetblue;
+}
+
+#btnCountNodes{
+    border-color: black;
+    background-color: cadetblue;
+}
+#btnCountElementNodes{
+    border-color: black;
+    background-color: cadetblue;
+}
